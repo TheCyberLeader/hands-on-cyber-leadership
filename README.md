@@ -1,5 +1,6 @@
 # hands-on-cyber-leadership
-**Welcome to my cybersecurity portfolio**: *A hands-on showcase developed as part of the WiCys Google Cybersecurity Certificate, presented through the lens of a governance- and risk-aware cybersecurity leader.*
+### **Welcome to my Cybersecurity Portfolio** 
+*A hands-on showcase developed as part of the WiCys Google Cybersecurity Certificate, presented through the lens of a governance- and risk-aware cybersecurity leader.*
 
 
 ## 🔍 Project Highlights
@@ -19,7 +20,7 @@
 
 ## 📄 Resume & Background
 
-- [Download Resume (PDF)]()
+- *[Download Resume (PDF)]()*
 - [LinkedIn](https://linkedin.com/in/mariezw)
 
 ---
