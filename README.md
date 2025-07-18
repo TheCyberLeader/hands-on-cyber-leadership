@@ -1,3 +1,5 @@
+<img width="1061" height="118" alt="Banner" src="https://github.com/user-attachments/assets/a38b643d-2800-403f-ba08-bf4ade39a0c3" />
+
 # hands-on-cyber-leadership
 ### **Welcome to my Cybersecurity Portfolio** 
 *A hands-on showcase developed as part of the WiCys Google Cybersecurity Certificate Program, presented through the lens of a governance- and risk-aware cybersecurity leader.*
@@ -28,5 +30,3 @@
 ## 🎯 Why This Portfolio?
 
 Each project in this portfolio blends tactical execution with strategic context. I approach every task—from scripting to auditing—with a governance-first mindset grounded in real-world leadership experience.
-
-<img width="1061" height="118" alt="Banner" src="https://github.com/user-attachments/assets/a38b643d-2800-403f-ba08-bf4ade39a0c3" />
