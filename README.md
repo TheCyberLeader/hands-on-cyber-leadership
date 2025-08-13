@@ -20,9 +20,9 @@
 
 ---
 
-## 📄 Background
+## 📄 Education & Background
 
-- [LinkedIn](https://linkedin.com/in/mariezw)
+- [Linkedin](https://linkedin.com/in/mariezw)
 
 ---
 
