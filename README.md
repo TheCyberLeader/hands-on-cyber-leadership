@@ -20,9 +20,8 @@
 
 ---
 
-## 📄 Resume & Background
+## 📄 Background
 
-- *[Download Resume (PDF)]()*
 - [LinkedIn](https://linkedin.com/in/mariezw)
 
 ---
