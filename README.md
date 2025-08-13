@@ -22,7 +22,7 @@
 
 ## 📄 Education & Background
 
-- [Linkedin](https://linkedin.com/in/mariezw)
+[Linkedin](https://linkedin.com/in/mariezw)
 
 ---
 
