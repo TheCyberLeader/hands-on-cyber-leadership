@@ -2,7 +2,7 @@
 <img width="1311" height="432" alt="Screenshot 2025-09-04 at 10 38 22 AM" src="https://github.com/user-attachments/assets/1cc08d49-7889-45ba-b862-4a629989af5b" />
 
 ## **Welcome to my Cybersecurity Portfolio** 
-A hands-on showcase developed as part of the WiCys Google Cybersecurity Certificate Program, presented through the lens of a governance- and risk-aware cybersecurity leader.
+A hands-on showcase developed as part of the WiCys Google Cybersecurity Certificate Program, presented through the lens of a governance and risk-aware cybersecurity leader.
 
 ## 🎯 Why This Portfolio?
 
