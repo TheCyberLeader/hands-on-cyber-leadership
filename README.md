@@ -6,9 +6,9 @@ A hands-on showcase developed as part of the WiCys Google Cybersecurity Certific
 
 ## 🎯 Why This Portfolio?
 
-This portfolio showcases how I bridge technical execution with strategic leadership in cybersecurity. Each project demonstrates both the practical outcomes—scripts, audits, and implementations—and the strategic rationale behind them, making clear how the work ties to governance, risk management, and organizational priorities.
+This portfolio showcases how I bridge technical execution with strategic leadership in cybersecurity. Each project demonstrates both the practical outcomes—scripts, audits, and implementations and the strategic rationale behind them, making clear how the work ties to governance, risk management, and organizational priorities.
 
-My approach is governance-first and impact-driven: every task is framed by the principles of sound decision-making, prioritization, and accountability. The intent is to demonstrate not only technical capability, but also how effective cyber leadership translates execution into business value.
+My approach is governance-driven and impact-focused: every task is framed by the principles of sound decision-making, prioritization, and accountability. The intent is to demonstrate not only technical capability, but also how effective cyber leadership translates execution into business value.
 
 ## 🔍 Project Highlights
 
