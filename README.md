@@ -4,6 +4,11 @@
 ### **Welcome to my Cybersecurity Portfolio** 
 *A hands-on showcase developed as part of the WiCys Google Cybersecurity Certificate Program, presented through the lens of a governance- and risk-aware cybersecurity leader.*
 
+## 🎯 Why This Portfolio?
+
+This portfolio showcases how I bridge technical execution with strategic leadership in cybersecurity. Each project demonstrates both the practical outcomes—scripts, audits, and implementations—and the strategic rationale behind them, making clear how the work ties to governance, risk management, and organizational priorities.
+
+My approach is governance-first and impact-driven: every task is framed by the principles of sound decision-making, prioritization, and accountability. The intent is to demonstrate not only technical capability, but also how effective cyber leadership translates execution into business value.
 
 ## 🔍 Project Highlights
 
@@ -19,13 +24,3 @@
 | [Cyber Vantage Profile](https://github.com/MZWANGCYBER/cyber-vantage-profile) | Strategic professional statement & narrative | Career Branding |
 
 ---
-
-## 📄 Education & Background
-
-[Linkedin](https://linkedin.com/in/mariezw)
-
----
-
-## 🎯 Why This Portfolio?
-
-Each project in this portfolio blends tactical execution with strategic context. I approach every task—from scripting to auditing—with a governance-first mindset grounded in real-world leadership experience.
