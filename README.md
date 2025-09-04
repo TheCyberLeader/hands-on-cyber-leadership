@@ -1,4 +1,4 @@
-![689383ea9ae46](https://github.com/user-attachments/assets/bc7c2ee9-dee3-402a-a65f-4b85e61ff323)
+<img width="550" height="252" alt="689383ea9ae46 copy" src="https://github.com/user-attachments/assets/bc559ad8-1c00-47a5-bab2-9cbe5455d84e" />
 
 # hands-on-cyber-leadership
 ### **Welcome to my Cybersecurity Portfolio** 
