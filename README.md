@@ -1,4 +1,4 @@
-<img width="550" height="252" alt="689383ea9ae46 copy" src="https://github.com/user-attachments/assets/bc559ad8-1c00-47a5-bab2-9cbe5455d84e" />
+<img width="1311" height="432" alt="Screenshot 2025-09-04 at 10 38 22 AM" src="https://github.com/user-attachments/assets/1cc08d49-7889-45ba-b862-4a629989af5b" />
 
 # hands-on-cyber-leadership
 ## **Welcome to my Cybersecurity Portfolio** 
