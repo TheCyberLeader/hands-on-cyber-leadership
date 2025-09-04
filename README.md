@@ -11,6 +11,7 @@ This portfolio showcases how I bridge technical execution with strategic leaders
 My approach is governance-driven and impact-focused: every task is framed by the principles of sound decision-making, prioritization, and accountability. The intent is to demonstrate not only technical capability, but also how effective cyber leadership translates execution into business value.
 
 ## 🔍 Project Highlights
+🚧 These projects are actively evolving.Public release will follow once the content is polished and ready for external review.
 
 | Project Title | Description | Skills/Focus |
 |---------------|-------------|--------------|
