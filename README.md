@@ -1,4 +1,4 @@
-<img width="1061" height="118" alt="Banner" src="https://github.com/user-attachments/assets/a38b643d-2800-403f-ba08-bf4ade39a0c3" />
+![689383ea9ae46](https://github.com/user-attachments/assets/bc7c2ee9-dee3-402a-a65f-4b85e61ff323)
 
 # hands-on-cyber-leadership
 ### **Welcome to my Cybersecurity Portfolio** 
