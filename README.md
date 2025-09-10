@@ -15,7 +15,7 @@ My approach is governance-driven and impact-focused: every task is framed by the
 
 | Project Title | Description | Skills/Focus |
 |---------------|-------------|--------------|
-| [Risk Lens Audit](https://github.com/MZWANGCYBER/risk-lens-audit) | Security audit based on CIS Controls and NIST guidance | Risk, Governance, Audit |
+| [internal Security Audit Compliance Assessment](https://github.com/MZWANGCYBER/risk-lens-audit) | Security audit based on CIS Controls and NIST guidance | Risk, Governance, Audit |
 | [Blue Team Diary](https://github.com/MZWANGCYBER/blue-team-diary) | Incident response documentation using SANS framework | IR, Documentation, SOC |
 | [Least Privilege in Action](https://github.com/MZWANGCYBER/least-privilege-in-action) | Linux file permissions management to enforce least privilege | Linux, Access Control |
 | [Query Fortress](https://github.com/MZWANGCYBER/query-fortress) | SQL filtering for secure data access and event triage | SQL, Data Analysis |
