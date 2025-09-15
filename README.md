@@ -16,7 +16,7 @@ My approach is governance-driven and impact-focused: every task is framed by the
 | Project Title | Description | Skills/Focus |
 |---------------|-------------|--------------|
 | [Internal Security Audit Compliance Assessment](https://github.com/MZWANGCYBER/risk-lens-audit)| Security audit based on NIST guidance | Risk, Governance, Audit |
-| [Cyber Incident Analysis](https://github.com/MZWANGCYBER/blue-team-diary) | Incident response documentation using SANS framework | IR, Documentation, SOC |
+| [Cyber Incident Analysis](https://github.com/MZWANGCYBER/blue-team-diary) | Network traffic analysis and incident response across DNS failures, DoS attacks, brute force attempts, and vulnerability assessments using NIST CSF. |Traffic Analysis, NIST CSF, Incident Response, Network Hardening, Documentation Attack Detection, Framework Implementation, Security Planning |
 | [Least Privilege in Action](https://github.com/MZWANGCYBER/least-privilege-in-action) | Linux file permissions management to enforce least privilege | Linux, Access Control |
 | [Query Fortress](https://github.com/MZWANGCYBER/query-fortress) | SQL filtering for secure data access and event triage | SQL, Data Analysis |
 | [Network Horizon Mapping](https://github.com/MZWANGCYBER/network-horizon-mapping) | Network structure analysis and segmentation review | Network Security |
