@@ -23,7 +23,7 @@ My approach is governance-driven and impact-focused: every task is framed by the
 ---
 
 ## 📈 Portfolio Stats
-- **Projects**: 8
+- **Projects**: 6
 - **Focus Areas**: Governance, Risk Management, Network Security, Incident Response
 - **Frameworks**: NIST CSF, Least Privilege, SQL Security
 
@@ -39,8 +39,7 @@ My approach is governance-driven and impact-focused: every task is framed by the
 | [Assets, Threats, and Vulnerabilities](https://github.com/TheCyberLeader/assets-threats-vulnerabilities/) | Risk assessment, threat modeling, and vulnerability management | NIST SP 800-30, PASTA Framework, Risk Quantification, Access Control Design, Incident Response | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
 | [Network Horizon Mapping](https://github.com/MZWANGCYBER/network-horizon-mapping) | Network structure analysis and segmentation review | Network Security | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
 | [Vuln Scan Playbook](https://github.com/MZWANGCYBER/vuln-scan-playbook) | Vulnerability identification for small business scenario | Threat Assessment | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
-| [Parse and Protect](https://github.com/MZWANGCYBER/parse-and-protect) | Parsing threat intel text files into actionable indicators | Python, Threat Intel | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
-| [Cyber Vantage Profile](https://github.com/MZWANGCYBER/cyber-vantage-profile) | Strategic professional statement & narrative | Career Branding | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
+
 
 ---
 
