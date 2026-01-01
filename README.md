@@ -19,13 +19,17 @@ My approach is governance-driven and impact-focused: every task is framed by the
 - ✅ Access control and network security implementations
 - ✅ Python automation for security operations
 - ✅ Strategic governance and risk management perspectives
+- ✅ Threat modeling and vulnerability assessments
+- ✅ SOC analyst workflows and alert triage
+- ✅ Phishing analysis and log analysis
 
 ---
 
 ## 📈 Portfolio Stats
-- **Projects**: 6
-- **Focus Areas**: Governance, Risk Management, Network Security, Incident Response
-- **Frameworks**: NIST CSF, Least Privilege, SQL Security
+* **Projects**: 6
+* **Focus Areas**: Risk Assessment, Governance & Compliance, Network Security, Incident Response, Threat Analysis, Vulnerability Management, Access Control
+* **Frameworks**: NIST CSF, NIST IR Lifecycle, NIST SP 800-30, PASTA Framework, Risk Management Framework
+* **Technical Skills**: Python, SQL, Linux, Bash, Network Analysis
 
 ---
 
@@ -44,10 +48,11 @@ My approach is governance-driven and impact-focused: every task is framed by the
 ---
 
 ## 🛠️ Technical Skills Demonstrated
-- **Frameworks**: NIST Cybersecurity Framework, Risk Management Framework
-- **Tools**: Python, SQL, Linux, Network Analysis Tools
-- **Practices**: Incident Response, Vulnerability Management, Access Control, Threat Intelligence
-- **Leadership**: Governance Integration, Strategic Risk Communication, Compliance Mapping
+
+* **Frameworks**: NIST Cybersecurity Framework, NIST IR Lifecycle, NIST SP 800-30, PASTA Framework, Risk Management Framework
+* **Tools**: Python, SQL, Linux, Bash, Network Analysis Tools, Log Analysis Tools, Threat Intelligence Platforms
+* **Practices**: Incident Response, Vulnerability Management, Access Control, Threat Intelligence, Phishing Analysis, Alert Triage, Threat Modeling, Database Security, File Permissions Management
+* **Leadership**: Governance Integration, Strategic Risk Communication, Compliance Mapping, Risk Quantification, Security Planning
 
 ---
 
